@@ -10,7 +10,10 @@
 
 - 👨🏻‍💻 &nbsp; Sou um desenvolvedor Full Stack em transição de carreira do  setor varejista para a área de tecnologia. Durante a pandemia de 2019, tive meu primeiro contato com a programação e me apaixonei pelo mundo mágico da tecnologia. Desde então, dediquei-me a aprender e aprimorar minhas habilidades, decidindo fazer da programação minha profissão.
 
-Tenho experiência com desenvolvimento Front End e Back End, utilizando tecnologias como HTML, CSS, JavaScript, Java e Spring Boot. Meu background no varejo me proporcionou habilidades essenciais como atenção aos detalhes, trabalho em equipe e resolução de problemas, que agora aplico no desenvolvimento de soluções inovadoras e eficientes.
+  Tenho experiência com desenvolvimento Front End e Back End, utilizando tecnologias como HTML, CSS, 
+  JavaScript, Java e Spring Boot. Meu background no varejo me proporcionou habilidades essenciais como atenção 
+  aos detalhes, trabalho em equipe e resolução de problemas, que agora aplico no desenvolvimento de soluções 
+  inovadoras e eficientes.
 
 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor, focando na excelência e inovação em cada linha de código.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
