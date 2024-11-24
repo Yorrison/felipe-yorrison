@@ -42,7 +42,8 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=☕java&logoColor=E535AB)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yorrison&show_icons=true&theme=dracula)
+![Felipe Yorrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yorrison&show_icons=true&theme=dracula)
