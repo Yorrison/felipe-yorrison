@@ -17,7 +17,6 @@
 
 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor, focando na excelência e inovação em cada linha de código.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por Basquete⛹️‍♂️, É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
